@@ -10,7 +10,7 @@
 Scrap Data from 
 NASA ASRS: **https://asrs.arc.nasa.gov/search/database.html**
 
-FAA ASIAS: **https://www.asias.faa.gov/apex/f?p=100:12:::NO:::**
+FAA ASIAS: **javascript:window.location.href=apex.server.url({p_request: 'FLOW_EXCEL_OUTPUT_R31839809323498316_en'},11);**
 
 Analyze data for trends in general avaiation accidents. 
   - [] Split Data between Fatal Crashes and General Incidents
