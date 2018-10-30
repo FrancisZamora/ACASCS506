@@ -8,9 +8,9 @@
 
 ### Part 1: Scraping Data and Looking for trends
 Scrap Data from 
-NASA ASRS: **https://asrs.arc.nasa.gov/search/database.html**
+NASA ASRS MA: **https://asrs.arc.nasa.gov/search/database.html**
 
-FAA ASIAS: **https://www.asias.faa.gov/apex/f?p=100:11:::NO:::**
+FAA ASIAS MA: **https://www.asias.faa.gov/apex/f?p=100:11:::NO:::**
 
 Analyze data for trends in general avaiation accidents. 
   - [] Split Data between Fatal Crashes and General Incidents
